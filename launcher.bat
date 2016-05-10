@@ -1,0 +1,2 @@
+@echo off
+START INSERT BIN FOLDER HERE 
